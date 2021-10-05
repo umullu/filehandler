@@ -1,0 +1,7 @@
+Аpplication waits file and parses xml format document to plain text.
+
+1. Copy binary file filehandler to the bin folder.
+2. Run application from bin folder in  console. 
+3. Copy  test.xml file to the input_data folder.
+4. Check results in the output_data and to_delete folders.
+ 

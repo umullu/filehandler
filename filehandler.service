@@ -1,0 +1,10 @@
+[Unit]
+Description=XML handler service converts file content to plain text format
+
+[Service]
+Type=oneshot
+ExecStart=/usr/share/filehandler/bin/filehandler
+
+#[Install]
+#WantedBy=multi-user.target
+
